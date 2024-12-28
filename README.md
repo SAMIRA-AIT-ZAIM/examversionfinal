@@ -192,10 +192,8 @@ Your full-stack project should now be running locally. If you experience any iss
 
 # Video Demonstration
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/user-attachments/assets/85eeea45-c99f-47dc-9345-85adbdf440b2" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click here to watch the video](https://github.com/user-attachments/assets/85eeea45-c99f-47dc-9345-85adbdf440b2)
+
 
 
 ## Utilisation 
