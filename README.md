@@ -193,7 +193,7 @@ Your full-stack project should now be running locally. If you experience any iss
 # Video Demonstration
 
 Click the link below to watch a demonstration video:
-#https://github.com/user-attachments/assets/240d8c00-ccdb-46e1-bf21-65290fe378bc
+https://github.com/user-attachments/assets/240d8c00-ccdb-46e1-bf21-65290fe378bc
 
 
 
